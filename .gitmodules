@@ -1,3 +1,6 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "jshint.vim"]
+	path = jshint.vim
+	url = git://github.com/manalang/jshint.vim.git
