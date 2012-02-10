@@ -4,3 +4,9 @@
 [submodule "jshint.vim"]
 	path = jshint.vim
 	url = git://github.com/manalang/jshint.vim.git
+[submodule "delimitMate"]
+	path = delimitMate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "closetag.vim"]
+	path = closetag.vim
+	url = git://github.com/vim-scripts/closetag.vim.git
