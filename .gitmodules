@@ -7,3 +7,6 @@
 [submodule "closetag.vim"]
 	path = closetag.vim
 	url = git://github.com/vim-scripts/closetag.vim.git
+[submodule "vim-taglist-plus"]
+	path = vim-taglist-plus
+	url = git://github.com/int3/vim-taglist-plus.git
